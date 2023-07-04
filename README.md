@@ -1,0 +1,2 @@
+# kongsbergdemo
+for git
